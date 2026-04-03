@@ -34,8 +34,8 @@ Verbinde das E-Paper Display wie folgt mit deinem ESP32. Die Belegung im Code en
 | **VCC** | 3.3V | Stromversorgung |
 | **GND** | GND | Masse |
 
-![Vorderseite des Tickers](Bitcoin_Ticker_Front.jpg)
-![Verkabelung des ESP32](Bitcoin_Ticker_Back.jpg)
+![Vorderseite des Tickers](Bitcoin_Ticker_Front.jpeg)
+![Verkabelung des ESP32](Bitcoin_Ticker_Back.jpeg)
 
 > **Hinweis:** Da das Display über SPI kommuniziert, achte darauf, dass die Kabelverbindungen fest sitzen, um Grafikfehler zu vermeiden.
 

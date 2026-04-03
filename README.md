@@ -25,11 +25,6 @@ Damit der Code kompiliert, müssen folgende Bibliotheken in der Arduino IDE (üb
 *   [**GxEPD2**](https://github.com) – Für die E-Paper Display Ansteuerung.
 *   [**Adafruit GFX**](https://github.com) – Basis-Grafikbibliothek für Schriften und Formen.
 
-### 2. Code herunterladen
-Du kannst das komplette Projekt als ZIP-Datei herunterladen, um es direkt zu öffnen:
-
-[![Download ZIP](https://shields.io)](https://github.com/Monty2811/ESP32_Bitcoin_Ticker/releases/latest/download/Bitcoin_Ticker.zip)
-
 ## Anschlussplan (Pinout)
 
 Verbinde das E-Paper Display wie folgt mit deinem ESP32. Die Belegung im Code entspricht diesen Pins:

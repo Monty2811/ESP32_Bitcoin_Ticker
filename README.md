@@ -9,8 +9,8 @@ Ein minimalistischer Bitcoin-Preis-Ticker für ESP32 C3 Super Mini und ein WeAct
 - Nutzt Deep Sleep (aktualisiert alle 15 Minuten), um Strom zu sparen.
 
 ## Hardware
-- ESP32 (z.B. DevKit V1)
-- Waveshare 2.9" E-Paper Display (BWR)
+- ESP32 C3 Super Mini
+- WEACT 2.9" E-Paper Display (BWR)
 
 ## Bibliotheken
 Folgende Libraries müssen in der Arduino IDE installiert sein:

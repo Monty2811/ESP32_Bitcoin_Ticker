@@ -10,6 +10,7 @@
 #include <Fonts/FreeSans9pt7b.h>
 #include <Fonts/FreeSansBold9pt7b.h>
 
+//Hier bitte die WLAN Daten eingeben
 const char* ssid = "SSID";
 const char* password = "Password";
 

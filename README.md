@@ -28,7 +28,9 @@ Damit der Code kompiliert, müssen folgende Bibliotheken in der Arduino IDE (üb
 ### 2. Code herunterladen
 Du kannst das komplette Projekt als ZIP-Datei herunterladen, um es direkt zu öffnen:
 
-[![Download ZIP](https://shields.io)](https://github.com)
+<a href="https://github.com">
+  <img src="https://shields.io" alt="Download ZIP">
+</a>
 
 ## Anschlussplan (Pinout)
 

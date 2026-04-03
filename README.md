@@ -17,6 +17,18 @@ Folgende Libraries müssen in der Arduino IDE installiert sein:
 - `GxEPD2`
 - `Adafruit_GFX`
 
+## Software-Installation
+
+### 1. Bibliotheken installieren
+Damit der Code kompiliert, müssen folgende Bibliotheken in der Arduino IDE (über den Library Manager) installiert sein:
+
+*   [**GxEPD2**](https://github.com) – Für die E-Paper Display Ansteuerung.
+*   [**Adafruit GFX**](https://github.com) – Basis-Grafikbibliothek für Schriften und Formen.
+
+### 2. Code herunterladen
+Du kannst das komplette Projekt als ZIP-Datei herunterladen, um es direkt zu öffnen:
+
+[![Download ZIP](https://shields.io)]([https://github.com](https://github.com/Monty2811/ESP32_Bitcoin_Ticker))
 
 ## Anschlussplan (Pinout)
 

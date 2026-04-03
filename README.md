@@ -35,3 +35,8 @@ Verbinde das E-Paper Display wie folgt mit deinem ESP32. Die Belegung im Code en
 | **GND** | GND | Masse |
 
 > **Hinweis:** Da das Display über SPI kommuniziert, achte darauf, dass die Kabelverbindungen fest sitzen, um Grafikfehler zu vermeiden.
+
+## Lizenz
+[![License: CC BY-NC 4.0](https://shields.io)](https://creativecommons.org)
+
+Dieses Projekt ist unter der CC BY-NC 4.0 Lizenz veröffentlicht.

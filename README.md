@@ -28,7 +28,7 @@ Damit der Code kompiliert, müssen folgende Bibliotheken in der Arduino IDE (üb
 ### 2. Code herunterladen
 Du kannst das komplette Projekt als ZIP-Datei herunterladen, um es direkt zu öffnen:
 
-[![Download ZIP](https://shields.io)]([https://github.com](https://github.com/Monty2811/ESP32_Bitcoin_Ticker/tree/main/Bitcoin_Ticker))
+[![Download ZIP](https://shields.io)](https://github.com)
 
 ## Anschlussplan (Pinout)
 
